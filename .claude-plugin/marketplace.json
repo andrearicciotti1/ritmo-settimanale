@@ -1,0 +1,6 @@
+{
+  "name": "ritmo-settimanale",
+  "owner": { "name": "RCC88" },
+  "metadata": { "description": "Ritmo settimanale: la mod di Claude Code che ti dice quanto del limite settimanale puoi usare oggi" },
+  "plugins": [{ "name": "ritmo-settimanale", "source": "./" }]
+}

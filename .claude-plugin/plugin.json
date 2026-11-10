@@ -1,0 +1,9 @@
+{
+  "name": "ritmo-settimanale",
+  "version": "0.1.0",
+  "description": "Quanto del limite settimanale puoi usare oggi per arrivare preciso al reset: barra sopra il prompt e grafico con /ritmo",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "RCC88"
+  }
+}
